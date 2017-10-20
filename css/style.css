@@ -542,6 +542,12 @@ h3.title span:before {
     background-color: #d21aac;
 	padding: 10px 0;
 }
+.w3-services-heading li {
+    color: #fff;
+    margin-left: 10px;
+    font-size:1.1em;
+    font-family: 'Open Sans', sans-serif;
+}
 .w3-services-heading p {
   font-size:0.9em;
     color: #fff;
