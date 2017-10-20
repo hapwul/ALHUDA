@@ -515,7 +515,7 @@ h3.title span:before {
 	background-color: #212121;
 }
 
-.w3-services-head h3,.w3-about-agile-head h3,.w3-agile-faculty-head h3,.w3-agile-contact-head h3,.w3-agile-heading h3,.agileits_w3layouts_head h3,.w3-appoint-head h3,h3.w3-about-title{
+.w3-services-head h3,.w3-about-agile-head h3,.w3-agile-faculty-head h3,.w3-agile-contact-head h3,.w3-agile-heading h3,.agileits_w3layouts_head h3,.w3-appoint-head h3,h3.w3-about-title, #visimisi{
 	font-size: 3em;
     color: #337ab7;
     font-family: 'Lato', sans-serif;
