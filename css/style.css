@@ -70,7 +70,7 @@ img {
 .w3_navigation_pos {
       position: absolute;
     top: 26px;
-    left: 35%;
+    left: 40%;
     z-index: 1;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -204,39 +204,39 @@ nav.navbar.navbar-default {
 }
 /*-- banner --*/  
 .carousel .item{    
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed; 
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed;
 	background-size:cover;	 
 	
 }
 .carousel .item.item2{   
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed; 
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed;
 	background-size:cover;	
 }   
 .carousel .item.item3{  
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed; 
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed;
 	background-size:cover;	 
 }   
 .carousel .item.item4{        
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner11.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban11.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban11.jpg) no-repeat top center fixed;
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban11.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
 	background-size:cover; 
 }  
 .carousel .item.item5{    
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
 	background-size:cover; 
 }  
 
