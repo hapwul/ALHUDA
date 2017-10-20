@@ -10,8 +10,7 @@ h1,h2,h3,h4,h5,h6{
 	
 }
 ul ,ol {
-	
-	 padding:0;
+	 padding:10px;
 }
 img {
 	width:100%;
@@ -19,6 +18,9 @@ img {
 }
 /*--header--*/
 /*-- banner --*/
+.misi{
+    color: white;
+}
 .header{
 	position: absolute;
     top: 1%;
@@ -70,7 +72,7 @@ img {
 .w3_navigation_pos {
       position: absolute;
     top: 26px;
-    left: 40%;
+    left: 35%;
     z-index: 1;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -204,39 +206,39 @@ nav.navbar.navbar-default {
 }
 /*-- banner --*/  
 .carousel .item{    
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed; 
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed;
 	background-size:cover;	 
 	
 }
 .carousel .item.item2{   
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed; 
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed;
 	background-size:cover;	
 }   
 .carousel .item.item3{  
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed; 
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed;
 	background-size:cover;	 
 }   
 .carousel .item.item4{        
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner11.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban11.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban11.jpg) no-repeat top center fixed;
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban11.jpg) no-repeat top center fixed;
 	background-size:cover; 
 }  
 .carousel .item.item5{    
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
 	background-size:cover; 
 }  
 
@@ -515,11 +517,11 @@ h3.title span:before {
 	background-color: #212121;
 }
 
-.w3-services-head h3,.w3-about-agile-head h3,.w3-agile-faculty-head h3,.w3-agile-contact-head h3,.w3-agile-heading h3,.agileits_w3layouts_head h3,.w3-appoint-head h3,h3.w3-about-title{
+.w3-services-head h3,.w3-about-agile-head h3,.w3-agile-faculty-head h3,.w3-agile-contact-head h3,.w3-agile-heading h3,.agileits_w3layouts_head h3,.w3-appoint-head h3,h3.w3-about-title, #visimisi{
 	font-size: 3em;
     color: #337ab7;
     font-family: 'Lato', sans-serif;
-    text-align: right;
+    text-align: center;
     text-transform: capitalize;
 	margin-bottom:40px;
 	letter-spacing:2px;
@@ -1246,7 +1248,7 @@ ul.w3l_footer_nav li a {
     margin: 0em 2em;
 	}
 	.w3_navigation_pos {
-    left: 31%; 
+    left: 32%; 
     }
 	.w3-services-01 h3 {
     margin-left: 0.5em;
