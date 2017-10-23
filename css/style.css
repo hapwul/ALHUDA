@@ -371,6 +371,31 @@ p.banner-p1 {
     color: #212121;
    
 }
+/*-- //The berita--*/
+button.btn.btn-primary2 {
+    color: #fff;
+    
+    border: 2px solid #009973;
+    border-radius: 0;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    
+}
+button.btn.btn-primary2:focus {
+    
+    border: 2px solid #009973;
+    border-radius: 0;
+    outline:none;
+}
+button.btn.btn-primary2:hover {
+    color: #00e6ac;
+    background: none;
+    
+}
+
 /*-- //The Modal--*/
 button.btn.btn-primary {
     color: #fff;
@@ -947,7 +972,7 @@ h3.title span:before {
 
 .bg-agile {
 
-    width: 65%;
+    width: 82%;
     margin: 0 auto;
 	font-family: 'Roboto', sans-serif;
 	font-size: 100%;
