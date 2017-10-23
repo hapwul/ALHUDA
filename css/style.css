@@ -48,7 +48,7 @@ img {
     margin-right: 0;
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-    color:#3acfd5;
+    color:#00e6ac;
     background: none;
 }
 .navbar-default .navbar-nav > li > a {
@@ -70,7 +70,7 @@ img {
 .w3_navigation_pos {
       position: absolute;
     top: 26px;
-    left: 35%;
+    left: 40%;
     z-index: 1;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -175,7 +175,7 @@ nav.navbar.navbar-default {
 }
 .w3-banner-links a {
     text-decoration: none;
-	  background-color: #00ccc0;
+	  background-color: #00e6ac;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -204,39 +204,39 @@ nav.navbar.navbar-default {
 }
 /*-- banner --*/  
 .carousel .item{    
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed; 
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban22.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda2.jpg) no-repeat top center fixed;
 	background-size:cover;	 
 	
 }
 .carousel .item.item2{   
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed; 
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban33.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda3.jpg) no-repeat top center fixed;
 	background-size:cover;	
 }   
 .carousel .item.item3{  
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed; 
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner31.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed; 
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda4.jpg) no-repeat top center fixed;
 	background-size:cover;	 
 }   
 .carousel .item.item4{        
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/banner11.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban11.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban11.jpg) no-repeat top center fixed;
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban11.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda1.jpg) no-repeat top center fixed;
 	background-size:cover; 
 }  
 .carousel .item.item5{    
-	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
-	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
-	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
-	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/ban44.jpg) no-repeat top center fixed;
+	background:-webkit-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
+	background:-moz-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
+	background:-ms-linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
+	background:linear-gradient(rgba(23, 22, 23, 0.2), rgba(23, 22, 23, 0.5)), url(../images/alhuda5.jpg) no-repeat top center fixed;
 	background-size:cover; 
 }  
 
@@ -371,11 +371,36 @@ p.banner-p1 {
     color: #212121;
    
 }
+/*-- //The berita--*/
+button.btn.btn-primary2 {
+    color: #fff;
+    
+    border: 2px solid #009973;
+    border-radius: 0;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+    
+}
+button.btn.btn-primary2:focus {
+    
+    border: 2px solid #009973;
+    border-radius: 0;
+    outline:none;
+}
+button.btn.btn-primary2:hover {
+    color: #00e6ac;
+    background: none;
+    
+}
+
 /*-- //The Modal--*/
 button.btn.btn-primary {
     color: #fff;
-    background: #e2203d;
-    border: 2px solid #e2203d;
+    background: #009973;
+    border: 2px solid #009973;
     border-radius: 0;
 	transition: 0.5s all;
     -webkit-transition: 0.5s all;
@@ -385,15 +410,15 @@ button.btn.btn-primary {
 	
 }
 button.btn.btn-primary:focus {
-    background: #e2203d;
-    border: 2px solid #e2203d;
+    background: #009973;
+    border: 2px solid #009973;
     border-radius: 0;
 	outline:none;
 }
 button.btn.btn-primary:hover {
-    color: #e2203d;
+    color: #00e6ac;
     background: none;
-    border: 2px solid #e2203d;
+    border: 2px solid #009973;
 }
 
 .thim-click-to-bottom {
@@ -515,9 +540,9 @@ h3.title span:before {
 	background-color: #212121;
 }
 
-.w3-services-head h3,.w3-about-agile-head h3,.w3-agile-faculty-head h3,.w3-agile-contact-head h3,.w3-agile-heading h3,.agileits_w3layouts_head h3,.w3-appoint-head h3,h3.w3-about-title{
+.w3-services-head h3,.w3-about-agile-head h3,.w3-agile-faculty-head h3,.w3-agile-contact-head h3,.w3-agile-heading h3,.agileits_w3layouts_head h3,.w3-appoint-head h3,h3.w3-about-title, #visimisi{
 	font-size: 3em;
-    color: #337ab7;
+    color: #00b386;
     font-family: 'Lato', sans-serif;
     text-align: center;
     text-transform: capitalize;
@@ -542,6 +567,12 @@ h3.title span:before {
     background-color: #d21aac;
 	padding: 10px 0;
 }
+.w3-services-heading li {
+    color: #fff;
+    margin-left: 10px;
+    font-size:1.1em;
+    font-family: 'Open Sans', sans-serif;
+}
 .w3-services-heading p {
   font-size:0.9em;
     color: #fff;
@@ -557,19 +588,19 @@ h3.title span:before {
 }
 .w3-services-01 h3 {
     font-size: 4em;
-    color:#3acfd5;
+    color:#f2f2f2;
     margin-left: 1em;
 }
 .w3-services-02 h3 {
    font-size: 4em;
-    color: #3acfd5;
+    color: #f2f2f2;
     margin-left: 2em;
 }
 
 /*-- //services--*/
 /*-- /faculty--*/
 .w3-faculty-img1 {
-    background: url(../images/f31.jpg) no-repeat 0px 0px;
+    background: url(../images/alhuda1_p.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -578,7 +609,7 @@ h3.title span:before {
     min-height:294px;
 }
 .w3-faculty-img2 {
-    background: url(../images/f61.jpg) no-repeat 0px 0px;
+    background: url(../images/alhuda2_p.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -587,7 +618,7 @@ h3.title span:before {
     min-height:294px;
 }
 .w3-faculty-img3 {
-    background: url(../images/f91.jpg) no-repeat 0px 0px;
+    background: url(../images/alhuda3_p.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -596,7 +627,7 @@ h3.title span:before {
     min-height:294px;
 }
 .w3-faculty-img4 {
-    background: url(../images/f10.jpg) no-repeat 0px 0px;
+    background: url(../images/alhuda4_p.JPG) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -606,14 +637,14 @@ h3.title span:before {
 }
 .w3-faculty-data {
 	 min-height: 294px;
-	background: #3acfd5;
+	background: #e6e6e6;
 }
 .w3-faculty-data ul li span {
     margin-right: 0.5em;
-	    color: #fff;
+	    color: #8080ff;
 }
 .w3-faculty-data h3 {
-    color: #f5f5f5;
+    color: #751aff;
     margin-top: 2em;
 	font-family: 'Montserrat Alternates', sans-serif;
 	text-align: center;
@@ -631,7 +662,7 @@ h3.title span:before {
 }
 .w3-faculty-ex-years {
    text-align: center;
-    background: #f2dede;
+    background: #ccffb3;
     min-height: 294px;
    
 }
@@ -640,36 +671,36 @@ h3.title span:before {
 }
 .w3-faculty-ex-years i.fa.fa-calendar-plus-o {
     font-size: 4em;
-    color: red;
+    color: darkblue;
     margin-top: 1em;
 }
 .w3-faculty-ex-years i.fa.fa-users {
-    color: #3a4ed5;
+    color: #002699;
 	  font-size: 4em;
     margin-top: 1em;
 }
 .w3-faculty-ex-years h3 {
-    color: #3acfd5;
+    color: #172161;
     font-size: 3em;
 	line-height: 1.5em;
 	
 }
 .w3-agile-faculty-grid2 .w3-faculty-data {
-    background: #172161;
+    background: #e6e6e6;
 }
 .w3-faculty-services1 {
     text-align: center;
-    background: #212121;
+    background: #bfff80;
     min-height: 294px;
 }
 .w3-faculty-services1 i.fa.fa-user {
     font-size: 3em;
     margin-top: 2em;
-    color: #3acfd5;
+    color: #002699;
 }
 .w3-faculty-services1 h3 {
     line-height: 1.8em;
-	    color: #fff;
+	    color: #002699;
 	font-family: 'Montserrat Alternates', sans-serif;
 	    letter-spacing: 2px;
 }
@@ -680,16 +711,16 @@ h3.title span:before {
 }
 .w3-faculty-services2 {
     text-align: center;
-    background: #19d8ad;
+    background: #f2f2f2;
     min-height: 294px;
 }
 .w3-faculty-services2 i.fa.fa-clock-o{
     font-size: 3em;
     margin-top: 2em;
-    color: #f9e806;
+    color: #002699;
 }
 .w3-faculty-services2 h3 {
-	    color: #fff;
+	    color: #002699;
     line-height: 1.8em;
 	font-family: 'Montserrat Alternates', sans-serif;
 	    letter-spacing: 2px;
@@ -701,17 +732,17 @@ h3.title span:before {
 }
 .w3-faculty-services3 {
     text-align: center;
-    background:#13eaec;
+    background:#d9d9d9;
     min-height: 294px;
 }
 .w3-faculty-services3 i.fa.fa-desktop{
     font-size: 3em;
     margin-top: 2em;
-    color: #0a04ec;
+    color: #002699;
 }
 .w3-faculty-services3 h3 {
     line-height: 1.8em;
-	    color: #fff;
+	    color: #002699;
 	font-family: 'Montserrat Alternates', sans-serif;
 	    letter-spacing: 2px;
 }
@@ -789,9 +820,9 @@ h3.title span:before {
     transition: transform 400ms ease 280ms;
 }
 .wthree_text h3{
-	color:#fff;
+	color:#002699;
 	font-size:2em;
-	    color: #fff;
+	    color: #002699;
     font-size: 2em;
     text-transform: uppercase;
 }
@@ -941,7 +972,7 @@ h3.title span:before {
 
 .bg-agile {
 
-    width: 65%;
+    width: 82%;
     margin: 0 auto;
 	font-family: 'Roboto', sans-serif;
 	font-size: 100%;
@@ -1134,7 +1165,7 @@ iframe {
 }
 .w3layouts_footer_grid h3 {
     font-size: 2em;
-    color: #fcac14;
+    color: #80ff00;
     margin-bottom: 0.8em;
 	font-family: 'Montserrat Alternates', sans-serif;
 }
@@ -1151,7 +1182,7 @@ ul.w3l_footer_nav li {
 }
 .w3-footer-icons span {
     font-size: 1.2em;
-    color: #31708f;
+    color: #66cc00;
 	margin-left: 0.2em;
 }
 .w3-footer-icons i {
@@ -1767,7 +1798,7 @@ ul.w3l_footer_nav li a {
     margin-left: 3em;
 	}
 	.w3-services-head h3, .w3-about-agile-head h3, .w3-agile-faculty-head h3, .w3-agile-contact-head h3, .w3-agile-heading h3, .agileits_w3layouts_head h3, .w3-appoint-head h3, h3.w3-about-title {
-    font-size: 2.5em;
+    font-size: 2em;
 	}
 }
 @media(max-width:600px){
