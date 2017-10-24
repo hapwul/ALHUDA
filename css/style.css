@@ -851,7 +851,7 @@ h3.title span:before {
 }
 .team-caption h4{
     margin:0;
-    color: #212121;
+    color: #f5f5f5;
     font-size: 1em;
     text-transform: uppercase;
     line-height: 1.8em;
@@ -906,7 +906,7 @@ h3.title span:before {
     -ms-transition: 0.5s all;
 }
 .team-caption ul li a i.fa.fa-twitter:hover{
-	background: #55acee;
+	background: #f5f5f5;
 }
 .team-caption ul li a i.fa.fa-rss{
     height: 30px;
@@ -922,7 +922,7 @@ h3.title span:before {
     -ms-transition: 0.5s all;
 }
 .team-caption ul li a i.fa.fa-rss:hover{
-	background: #f26522;
+	background: #f5f5f5;
 }
 .team-caption {
     background:#337ab7;
@@ -950,7 +950,7 @@ h3.title span:before {
 }
 .team-info:before {
     background-color: rgba(0,0,0,0.85);
-    border: 3px solid #1c588c;
+    border: 3px solid #f5f5f5;
     bottom: 0;
     content: "";
     display: inline-block;
