@@ -56,7 +56,7 @@ img {
 	font-weight: 400;
 }
 .navbar-nav > li > a {
-    margin: 0em 2.6em;
+    margin: 0em 2.1em;
     padding: 0 .1em;
     line-height: 1em;
     text-transform: uppercase;
@@ -70,7 +70,7 @@ img {
 .w3_navigation_pos {
       position: absolute;
     top: 26px;
-    left: 40%;
+    left: 37%;
     z-index: 1;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -169,7 +169,7 @@ nav.navbar.navbar-default {
 .w3-banner-links li {
 	display: inline-block;
     margin: 1em 0;
-    padding: 0 11em 0 5em;
+    padding: 0 5em 0 5em;
     color: #eee;
     font-size: 1.2em;
 }
@@ -1264,7 +1264,7 @@ ul.w3l_footer_nav li a {
     margin: 0em 2em;
 	}
 	.w3_navigation_pos {
-    left: 31%; 
+    left: 36%; 
     }
 	.w3-services-01 h3 {
     margin-left: 0.5em;
@@ -1284,7 +1284,7 @@ ul.w3l_footer_nav li a {
     margin-right: 22.1em !important;
 	}
 	.navbar-nav > li > a {
-    margin: 0em 1.5em;
+    margin: 0em 1em;
 	}
 	 .w3-services-01 h3 {
     margin-left: 0.4em;
@@ -1308,7 +1308,7 @@ ul.w3l_footer_nav li a {
     top: 7px;
 	}
 	.w3_navigation_pos {
-    left: 29%;
+    left: 33%;
 	}
 	.navbar-nav > li:nth-child(3) a {
     margin-right: 22.1em !important;
