@@ -18,6 +18,27 @@ img {
 	height:100%;
 }
 /*--header--*/
+/*--soal--*/
+.soal ul{
+    padding: 0 7em;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+.soal li{
+    float: none;
+}
+.soal li a {
+    display: block;
+    color: white;
+    text-align: left;
+    padding: 10px 12px;
+    text-decoration: none;
+}
+.soal li a:hover {
+    background-color: #111;
+}
+
 /*-- banner --*/
 .header{
 	position: absolute;
@@ -526,7 +547,17 @@ h3.title span:before {
 .services{
 	background-color: #212121;
 }
-
+#latihansoal{
+    font-size: 3em;
+    color: #00b386;
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    text-transform: capitalize;
+    margin-bottom:20px;
+    letter-spacing:2px;
+    margin-top: 2em;
+    margin-left: 2.5em;
+}
 .w3-services-head h3,.w3-about-agile-head h3,.w3-agile-faculty-head h3,.w3-agile-contact-head h3,.w3-agile-heading h3,.agileits_w3layouts_head h3,.w3-appoint-head h3,h3.w3-about-title, #visimisi{
 	font-size: 3em;
     color: #00b386;
