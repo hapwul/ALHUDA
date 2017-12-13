@@ -1,0 +1,8 @@
+Direktori folder baru :
+- core
+- functions
+- Gambar Gallery
+- Gambar News
+- view
+
+JANGAN LUPA database nya diimport dulu
